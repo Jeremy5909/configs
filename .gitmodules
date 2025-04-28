@@ -1,12 +1,12 @@
 [submodule "nvim"]
 	path = nvim
-	url = https://github.com/Jeremy5909/nvim
+	url = https://github.com/Jeremy5909/nvim.config.git
 [submodule "kitty"]
 	path = kitty
-	url = https://github.com/Jeremy5909/kitty
+	url = https://github.com/Jeremy5909/kitty.config.git
 [submodule "tmux"]
 	path = tmux
-	url = https://github.com/Jeremy5909/tmux
+	url = https://github.com/Jeremy5909/tmux.config.git
 [submodule "fish.config"]
 	path = fish
 	url = https://github.com/Jeremy5909/fish.config.git
