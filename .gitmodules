@@ -8,5 +8,5 @@
 	path = tmux
 	url = https://github.com/Jeremy5909/tmux
 [submodule "fish.config"]
-	path = fish.config
+	path = fish
 	url = https://github.com/Jeremy5909/fish.config.git
